@@ -13,8 +13,8 @@ NOTE: You might change the Fortran compiler specified in the first line of the M
 
 3) The code should produce the following output
 
- Slow evaluation at point    1.5000000000000000       0.50000000000000000       gives    1.6807426393791589     
- Slow evaluation at point    1.5000000000000000       0.50000000000000000       gives derivative of f with respect to x(1):   -1.7620891821210760     
+> Slow evaluation at point    1.5000000000000000       0.50000000000000000       gives    1.6807426393791589     
+ Slow evaluation at point    1.5000000000000000       0.50000000000000000       gives derivative of f with respect to x(1): -1.7620891821210760     
  Slow evaluation at point    1.5000000000000000       0.50000000000000000       gives derivative of f with respect to x(2):    2.9379071414204212     
  Slow evaluation at point    1.5000000000000000       0.50000000000000000       gives the Hessian: 
    2.0514523884667937        0.0000000000000000     
@@ -39,6 +39,7 @@ NOTE: You might change the Fortran compiler specified in the first line of the M
  Fast evaluation at point    1.5000000000000000       0.50000000000000000       gives the Hessian: 
    2.0514523888919172        0.0000000000000000     
    0.0000000000000000        5.5628495784669223  
+ 
  
  and should generate a binary file called "test.kernel" and a .csv file called "multidimensional-grid-RECOVERED.csv".
  
