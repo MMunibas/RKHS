@@ -32,7 +32,7 @@ NOTE: You might change the Fortran compiler specified in the first line of the M
    2.0514523888919172       -2.9275790292507025     
   -2.9275790292507025        5.5628495784669223     
 
- Evaluation with supplied mask:
+> Evaluation with supplied mask:
  Fast evaluation at point    1.5000000000000000       0.50000000000000000       gives    1.6807426363836484     
  Fast evaluation at point    1.5000000000000000       0.50000000000000000       gives derivative of f with respect to x(1):   -1.7620891821013807     
  Fast evaluation at point    1.5000000000000000       0.50000000000000000       gives derivative of f with respect to x(2):    0.0000000000000000     
