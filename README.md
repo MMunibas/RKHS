@@ -5,6 +5,7 @@ Fortran90 implementation of the RKHS method
 
 1) Compile the source code by opening a terminal and writing
 > make
+
 NOTE: You might change the Fortran compiler specified in the first line of the Makefile.
 
 2) Run the code by typing 
