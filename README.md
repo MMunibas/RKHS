@@ -53,6 +53,7 @@ NOTE: You might change the Fortran compiler specified in the first line of the M
    tutorial how kernels are initialized and evaluated. It also gives details on the format required for training data.
  
  
+5) For a detailed step-by-step tutorial on how to use the RKHS module to construct PES, download PES_Tutorial.zip and execute the example codes.
  
 
  
